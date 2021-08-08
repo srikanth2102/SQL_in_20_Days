@@ -1,2 +1,10 @@
-# MySql-in-30-days
-Use this repository to learn and practice MySql queries in 30 days. I will be updating the content daily as i learn.
+# MySql in 30 DAYS
+
+## OVERVIEW
+* Use this repository to learn Mysql in 30.
+* Ill be learning and updating this repo daily.
+
+## CONTENTS
+|   DAY   | CONTENTS                                               |
+|----     | -----                                                  |
+|  DAY 1  | create, insert, select, and or not operaators, order by|
