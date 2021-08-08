@@ -8,4 +8,4 @@
 ## CONTENTS
 |   DAY   | CONTENTS                                               |
 |----     | -----                                                  |
-|  DAY 1  | create, insert, select, and or not operaators, order by|
+|  DAY 1  | create, insert, select, and or not operators, order by|
