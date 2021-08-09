@@ -1,4 +1,5 @@
 # MySql in 30 DAYS
+<img src=https://user-images.githubusercontent.com/66214509/128676671-fc919427-a041-4e86-a985-684596ccfe2e.JPG alt="drawing" width="500" class='center'>
 
 ## OVERVIEW
 * Use this repository to practice sql queries.
@@ -8,4 +9,5 @@
 ## CONTENTS
 |   DAY   | CONTENTS                                               |
 |----     | -----                                                  |
-|  DAY 1  | create, insert, select, and or not operators, order by|
+|  DAY 1  | create, insert, select, and or not operators, order by |
+|  DAY 2  | functions sum,avg and count|
