@@ -11,3 +11,4 @@
 |----     | -----                                                  |
 |  DAY 1  | create, insert, select, and or not operators, order by |
 |  DAY 2  | functions sum,avg and count|
+| DAY 3| inner join, left join, right join and outer join|
