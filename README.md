@@ -7,8 +7,9 @@
 * At the end of 30 days i will be uplaoding a data analytics project using MySql.
 
 ## CONTENTS
-|   DAY   | CONTENTS                                               |
-|----     | -----                                                  |
-|  DAY 1  | create, insert, select, and or not operators, order by |
-|  DAY 2  | functions sum,avg and count|
-| DAY 3| inner join, left join, right join and outer join|
+|   DAY   | CONTENTS                                                                        |
+|----     | -----                                                                           |
+|  DAY 1  | create, insert, select, and or not operators, order by                          |
+|  DAY 2  | functions sum,avg and count                                                     |
+| DAY 3   | inner join, left join, right join and outer join                                |
+|DAY 4    | [covid-19 data analysis](https://github.com/srikanth2102/COVID-19-DATA-ANALYSIS)|
