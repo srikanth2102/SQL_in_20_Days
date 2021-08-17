@@ -13,4 +13,4 @@
 |  DAY 2    | functions sum,avg and count                                                                                                   |
 |  DAY 3    | inner join, left join, right join and outer join                                                                              |
 |  DAY 4    | [covid-19 data analysis and data visualization](https://github.com/srikanth2102/COVID-19-Data-Analysis-and-Data-Visualisation)|
-|  DAY 5    | [IPL_DATA_ANALYSIS PROJECT](https://github.com/srikanth2102/IPL_DATA_ANALYSIS/blob/main/README.md)                            |
+|  DAY 5    | [IPL_DATA_ANALYSIS PROJECT](https://github.com/srikanth2102/IPL_DATA_ANALYSIS)                            |
