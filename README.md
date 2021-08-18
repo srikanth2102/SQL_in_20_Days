@@ -44,5 +44,5 @@
 |DAY 9    |  titles and salaries tables                               |
 |DAY 10   |  department, dept_manager, dept_emp tables                |
 |DAY 11   |  Using employees, salaries, titles tables together        |
-|DAY 12   |  Using employees, department, dept_manager tables together|
+|DAY 12   |  Using  department, dept_manager tables together|
 |DAY 13   |  Using all 6 tables together                              |
