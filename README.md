@@ -1,5 +1,5 @@
 # SQL in 30 DAYS
-<img src=https://user-images.githubusercontent.com/66214509/128676671-fc919427-a041-4e86-a985-684596ccfe2e.JPG alt="drawing" width="500" class='center'>
+![image](https://user-images.githubusercontent.com/66214509/129874516-8a7beb71-d67e-4342-8981-229c03057ba2.png)
 
 ## OVERVIEW
 * Use this repository to practice sql queries.
