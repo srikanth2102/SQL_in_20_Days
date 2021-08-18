@@ -26,7 +26,7 @@
 |  DAY 7    | [Sales insights project](https://github.com/srikanth2102/SALES_INSIGHTS)                                                      |
 
 ### *DAY 8-14*
-* We will write queries using the famous employees database.
+* We will write queries using the employees database.
 * Previously we only worked with databases with a single table. Now we will work with multiple tables.
 * The database that will be used from day 8-14 is taken from [here](https://github.com/datacharmer/test_db).
 * Follow the instructions in that github repository to install the database in your localhost.
