@@ -21,7 +21,7 @@
 |  DAY 1    | create, insert, select, and or not operators, order by                                                                        |
 |  DAY 2    | functions sum,avg and count                                                                                                   |
 |  DAY 3    | inner join, left join, right join and outer join                                                                              |
-|  DAY 4,5  | [Covid-19 data analysis and data visualization](https://github.com/srikanth2102/COVID-19-Data-Analysis-and-Data-Visualisation)|
+|  DAY 4-5  | [Covid-19 data analysis and data visualization](https://github.com/srikanth2102/COVID-19-Data-Analysis-and-Data-Visualisation)|
 |  DAY 6    | [IPL data analysis project](https://github.com/srikanth2102/IPL_DATA_ANALYSIS)                                                |
 |  DAY 7    | [Sales insights project](https://github.com/srikanth2102/SALES_INSIGHTS)                                                      |
 
@@ -45,4 +45,4 @@
 |DAY 10   |  department, dept_manager, dept_emp tables                |
 |DAY 11   |  Using employees, salaries, titles tables together        |
 |DAY 12   |  Using  department, dept_manager tables together|
-|DAY 13   |  Using all 6 tables together                              |
+|DAY 13-14|  Using all 6 tables together                              |
