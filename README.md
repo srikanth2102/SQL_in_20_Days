@@ -3,8 +3,8 @@
 
 ## OVERVIEW
 * Use this repository to practice sql queries.
-* Ill be learning and updating this repo daily.
-* At the end of 30 days i will be uplaoding a data analytics project using MySql.
+* This repository contains three data analysis projects using SQL.
+* Use those projects to learn querying.
 * Dont depend entirely on this repository to learn sql.
 * There is a lot of free materials available. Google it, find them and learn the concepts from there and use this repo to practice and to view some projects based on sql queries.
 * Material that i found useful while learning was from [W3schools](https://www.w3schools.com/sql/).
