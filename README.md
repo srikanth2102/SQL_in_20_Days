@@ -14,7 +14,7 @@
 ### *DAY 1-7*
 * We will go over the basics of SQL. Like SELECT, INSERT and some functions.
 * We will also do three projects on day 4, day 5 and day 6.
-* These projects are will help you get your hands dirty and make you familiar with SQL queries.
+* These projects will help you get your hands dirty and make you familiar with SQL queries.
 
 |   DAY     | CONTENTS                                                                                                                      |
 |----       | -----                                                                                                                         |
