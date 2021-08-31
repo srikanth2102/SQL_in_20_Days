@@ -1,0 +1,9 @@
+/*
+Enter your query here.
+*/
+
+SELECT DISTINCT(city)
+FROM station
+WHERE (LEFT(city,1) NOT IN ('a','e','i','o','u')) OR (RIGHT(city,1) NOT IN ('a','e','i','o','u'))
+ORDER BY city;
+
