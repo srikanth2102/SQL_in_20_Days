@@ -34,12 +34,7 @@
 |The Blunder|[link](https://www.hackerrank.com/challenges/the-blunder/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen)|[solution](https://github.com/srikanth2102/MySql-in-30-days/blob/main/Hackerrank%20SQL/The%20Blunder.sql)|
 |Top Earners|[link](https://www.hackerrank.com/challenges/earnings-of-employees/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen)|[solution](https://github.com/srikanth2102/MySql-in-30-days/blob/main/Hackerrank%20SQL/Top%20Earners.sql)|
 |Type of Triangle |[link](https://www.hackerrank.com/challenges/what-type-of-triangle/problem)|[solution](https://github.com/srikanth2102/MySql-in-30-days/blob/main/Hackerrank%20SQL/Type%20of%20Triangle.sql)|
-
-
-#### Joins
-|Population Census |https://www.hackerrank.com/challenges/asian-population/problem |[solution](https://github.com/srikanth2102/MySql-in-30-days/blob/main/Hackerrank%20SQL/Population%20Census.sql)|
-|African Cities |https://www.hackerrank.com/challenges/african-cities/problem?h_r=next-challenge&h_v=zen| [solution](https://github.com/srikanth2102/MySql-in-30-days/blob/main/Hackerrank%20SQL/African%20Cities.sql)|
-|Placements|https://www.hackerrank.com/challenges/placements/problem|[solution](https://github.com/srikanth2102/MySql-in-30-days/blob/main/Hackerrank%20SQL/Placements.sql)|
-|New Companies | https://www.hackerrank.com/challenges/the-company/problem?h_r=profile|  [solution](https://github.com/srikanth2102/MySql-in-30-days/blob/main/Hackerrank%20SQL/New%20Companies.sql)|
-
-
+|Population Census |[link](https://www.hackerrank.com/challenges/asian-population/problem)|[solution](https://github.com/srikanth2102/MySql-in-30-days/blob/main/Hackerrank%20SQL/Population%20Census.sql)|
+|African Cities |[link](https://www.hackerrank.com/challenges/african-cities/problem?h_r=next-challenge&h_v=zen)| [solution](https://github.com/srikanth2102/MySql-in-30-days/blob/main/Hackerrank%20SQL/African%20Cities.sql)|
+|Placements|[link](https://www.hackerrank.com/challenges/placements/problem)|[solution](https://github.com/srikanth2102/MySql-in-30-days/blob/main/Hackerrank%20SQL/Placements.sql)|
+|New Companies |[link](https://www.hackerrank.com/challenges/the-company/problem?h_r=profile)|  [solution](https://github.com/srikanth2102/MySql-in-30-days/blob/main/Hackerrank%20SQL/New%20Companies.sql)|
